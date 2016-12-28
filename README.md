@@ -18,9 +18,9 @@ You can use I2G to generate ionic 2 pages and services (providers). For that go 
 yo itog page
 ```
  * To generate service
-   ```bash
-   yo itog
-   ```
+```bash
+yo itog
+```
 
 ## Getting To Know Yeoman
 
