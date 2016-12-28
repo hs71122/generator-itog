@@ -14,9 +14,9 @@ npm install -g generator-itog
 #How to work with I2G
 You can use I2G to generate ionic 2 pages and services (providers). For that go to the root of your project.
  * To generate page 
-   ```bash
-   yo itog page
-   ```
+```bash
+yo itog page
+```
  * To generate service
    ```bash
    yo itog
