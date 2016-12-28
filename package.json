@@ -1,6 +1,6 @@
 {
   "name": "generator-itog",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "ionic 2 page and service generator",
   "homepage": "https://github.com/hs71122/generator-itog",
   "author": {
@@ -44,6 +44,5 @@
   "scripts": {
     "prepublish": "gulp prepublish",
     "test": "gulp"
-  },
-  "private": true
+  }
 }
