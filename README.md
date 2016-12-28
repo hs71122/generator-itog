@@ -1,5 +1,6 @@
 # generator-itog
 Ionic 2 page and service generator
+![](http://i.imgur.com/F2YLrjF.png)
 # generator-itog [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url] [![Coverage percentage][coveralls-image]][coveralls-url]
 > ionic 2 pages and services generator
 
