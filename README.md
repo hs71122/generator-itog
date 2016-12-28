@@ -11,8 +11,17 @@ First, install [Yeoman](http://yeoman.io) and generator-itog using [npm](https:/
 npm install -g yo
 npm install -g generator-itog
 ```
-
-Then generate your new project:
+#How to work with I2G
+You can use I2G to generate ionic 2 pages and services (providers). For that go to the root of your project.
+ *To generate page 
+  ```bash
+  yo itog page
+  ```
+ *To generate service
+  ```bash
+  yo itog
+  
+Then generate ionic 2 pages or service on your ionic 2 project:
 
 ```bash
 yo itog
