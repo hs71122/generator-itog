@@ -18,11 +18,29 @@ You can use I2G to generate ionic 2 pages and services (providers). For that go 
 ```bash
 yo itog page
 ```
+#example
+```bash
+I:\webApp_workspace\my-app>yo itog page
+Page Generator
+? Page Name test
+? Page path I:\webApp_workspace\my-app\src\pages
+? Would you like to Generator scss file  Yes
+   create src\pages\test\test.page.html
+   create src\pages\test\test.page.scss
+   create src\pages\test\test.page.ts
+```
  * To generate service
 ```bash
 yo itog service
 ```
-
+#example
+```bash
+I:\webApp_workspace\my-app>yo itog service
+Service Generator
+? Service Name test
+? Service Path I:\webApp_workspace\my-app\src\service
+   create src\service\test.service.ts
+```
 ## Getting To Know Yeoman
 
  * Yeoman has a heart of gold.
