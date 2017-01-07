@@ -20,7 +20,7 @@ yo itog page
 ```
  * To generate service
 ```bash
-yo itog
+yo itog service
 ```
 
 ## Getting To Know Yeoman
