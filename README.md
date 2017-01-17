@@ -1,7 +1,7 @@
 # generator-itog
 Ionic 2 page and service generator
 ![](http://i.imgur.com/FAVK3wl.png)
-# generator-itog [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![dependencies Status](https://david-dm.org/hs71122/generator-itog/status.svg?style=flat-square)](https://david-dm.org/hs71122/generator-itog)
+# generator-itog [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![dependencies Status](https://david-dm.org/hs71122/generator-itog/status.svg)](https://david-dm.org/hs71122/generator-itog)
 > ionic 2 pages and services generator
 
 ## Installation
